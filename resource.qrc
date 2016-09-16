@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/images">
+        <file alias="computer_stop">images/computer_stop.ico</file>
+        <file alias="server_start">images/server_start.ico</file>
+        <file alias="status_online">images/status_online.ico</file>
+        <file alias="status_offline">images/status_offline.ico</file>
+    </qresource>
+</RCC>
